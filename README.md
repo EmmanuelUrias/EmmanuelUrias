@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Emmanuel Urias</h1>
 <h3 align="center">A passionate full-stack developer</h3>
-<img align="center" src='[https://media4.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif](https://media.tenor.com/pPKOYQpTO8AAAAAd/monkey-developer.gif)' alt='me typing'/>
+<img align="center" src='[[https://media4.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif](https://media.tenor.com/pPKOYQpTO8AAAAAd/monkey-developer.gif)](https://tenor.com/bbLYF.gif)' alt='me typing'/>
 
 - 🔭 I’m currently working on [milestone-project-3](https://github.com/EmmanuelUrias/milestone-3)
 
