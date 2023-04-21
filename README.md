@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **how to make an os, docker, and AWS**
 
-- 👯 I’m looking to collaborate on **Anything you invite me to**
+- 👯 I’m looking to collaborate on **anything you invite me to collaborate on**
 
 - 👨‍💻 All of my projects are available at [still under construction](still under construction)
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [still working on it](still working on it)
 
-- ⚡ Fun fact **I no life apart from coding**
+- ⚡ A Fun fact about me is that **I no life apart from coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
