@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Emmanuel Urias</h1>
 <h3 align="center">A passionate full-stack developer</h3>
-<img align='center' src='https://media4.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif' alt='me typing'/>
+<img align="center" src='https://media4.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif' alt='me typing'/>
 
 - 🔭 I’m currently working on [milestone-project-3](https://github.com/EmmanuelUrias/milestone-3)
 
@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [still working on it](still working on it)
 
-- ⚡ A Fun fact about me is that **I love riding dirtbikes🏍 and boxing🥊**
+- ⚡ A Fun fact about me is that **I love riding dirtbikes 🏍 and boxing 🥊 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
