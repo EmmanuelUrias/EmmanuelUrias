@@ -1,22 +1,22 @@
 <h1 align="center">Hey 👋, I'm Emmanuel Urias</h1>
 <h3 align="center">A passionate full-stack developer</h3>
-<img src='https://media4.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif' alt='me typing'/>
+<img align='center' src='https://media4.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif' alt='me typing'/>
 
 - 🔭 I’m currently working on [milestone-project-3](https://github.com/EmmanuelUrias/milestone-3)
 
-- 🌱 I’m currently learning **how to make an os, docker, and AWS**
+- 🌱 I’m currently learning **how to make an os, and docker**
 
 - 👯 I’m looking to collaborate on **anything you invite me to collaborate on**
 
 - 👨‍💻 All of my projects are available at [still under construction](still under construction)
 
-- 💬 Ask me about **React, Node.js, and AWS**
+- 💬 Ask me about **React, Node.js, and AWS☁️**
 
 - 📫 How to reach me **emmanuelurias60@icloud.com**
 
 - 📄 Know about my experiences [still working on it](still working on it)
 
-- ⚡ A Fun fact about me is that **I no life apart from coding**
+- ⚡ A Fun fact about me is that **I love riding dirtbikes🏍 and boxing🥊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
