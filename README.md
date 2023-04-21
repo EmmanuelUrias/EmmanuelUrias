@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋, I'm Emmanuel Urias</h1>
 <h3 align="center">A passionate full-stack developer</h3>
+<img src='https://media4.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif' alt='me typing'/>
 
 - 🔭 I’m currently working on [milestone-project-3](https://github.com/EmmanuelUrias/milestone-3)
 
@@ -19,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Emmanuel Urias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel urias" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emmanuel-urias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel urias" height="30" width="40" /></a>
 <a href="https://instagram.com/e_man_702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="e_man_702" height="30" width="40" /></a>
 </p>
 
