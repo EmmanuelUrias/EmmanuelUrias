@@ -3,9 +3,9 @@
 <div align="center"><img src='https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif' alt='software developer working'/></div>
 
 
-- 🔭 I’m currently working on [milestone-project-3](https://github.com/EmmanuelUrias/milestone-3)
+- 🔭 I’m currently working on my portfolio
 
-- 🌱 I’m currently learning **how to make an os, and docker**
+- 🌱 I’m currently learning **about AWS in more depth**
 
 - 👯 I’m looking to collaborate on **anything you invite me to collaborate on**
 
